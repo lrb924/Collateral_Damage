@@ -24,5 +24,19 @@ We hope to find this data using stock data from Nasdaq and Alpaca, the cost of c
 - Major findings
 - Limitations and future development
 - Conclusion
-- References
-- Team Members
+## References
+
+-Nasdaq/Quandl<br>
+-Alpaca<br>
+-Yahoo Finance<br>
+-https://fred.stlouisfed.org/series/QUSR628BIS<br>
+used for xls data that goes together with Nasdaq and Zillow housing data.<br>
+
+  
+  ## Team Members:
+
+  -Darius Griffin (Project Manager)<br>
+  -Bryan Follenweider<br>
+  -Lara Barger<br>
+  -Miguel Ramos<br>
+  -Yohan Hwang
