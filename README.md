@@ -1,5 +1,6 @@
-![Ukranian War](Resources/Russia-Ukraine-war-scaled.jpg)
-![Gulf War](Resources/Desert%20Storm%20Planes.jpeg)
+![War Image](Resources/War_Image.jpeg)
+![Housing Prices](Resources/housing_prices.jpeg)
+![Unemployment](Resources/unemployment.jpeg)
 
 # Project_1_Team_1
 
