@@ -2,7 +2,7 @@
 ![Housing Prices](Resources/housing_prices.jpeg)
 ![Unemployment](Resources/unemployment.jpeg)
 
-# Project_1_Team_1
+# Collateral Damage: The Effect of War on Stocks, Housing, and Unemployment
 
 ## Project Overview
   ### 
