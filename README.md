@@ -28,10 +28,19 @@ We hope to find this data using stock data from Nasdaq and Alpaca, the cost of c
 
 ___
 
-- Data pre-processing/gathering steps (cleaning and manipulation): Our team has accessed stock data and crude oil prices 
-- Visuals and explanations
-- Additional explanations
-- Major findings
+## Data pre-processing/gathering steps (cleaning and manipulation)
+Our team has accessed stock data and crude oil prices from Nasdaq, Yahoo Finance and Alpaca.
+
+To gather weapons manufacturer data, we used Yahoo Finance. We knew the tickers that we wanted, LMT, BA, RTX, NOC. Then we created a dataframe by narrowing the dates first for the Gulf War then for the Ukrainian War. We did the same for major oil company stocks, with their tickers being XOM, BP, COP and CVX. Then we did line plots for each.
+
+To gather the unemployment data we used Nasdaq/Quandl. Data was converted to json with dates specified for both wars. We set the date as the index and plotted that.
+
+Housing data was the most complex and needed the most manipulation because the data available from Zillow through Nasdaq was broken into regions. We had to identify which regions corresponded with which zip codes. Then we matched each zip code to a specific state. A random sample of 30 prices for each state was picked and then grouped together to find the national average also for date ranges pertaining to the wars in question. This was plotted as line graphs and bar graphs using hvplot.
+
+
+## Visuals and explanations
+## Additional explanations
+## Major findings
   
 ## Challenges, Limitations and future development
 
