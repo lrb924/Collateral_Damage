@@ -12,10 +12,10 @@
 * `numpy == 1.21.5`
 * `pandas == 1.3.5+`
 * `hvplot == 0.7.3`
-* `matplotlib == '3.5.1'`
-* `json == '2.0.9'`
-* `quandl == '3.7.0'`
-* `yfinance == '0.1.74'`
+* `matplotlib == 3.5.1`
+* `json == 2.0.9`
+* `quandl == 3.7.0`
+* `yfinance == 0.1.74`
   
 ###
   Our team decided to investigate the effect of an existing war and how that is reflected on stock prices for weapon manufacturers and stock prices for gas companies and how those can effect the cost of crude oil, housing prices and the unemployment rate. Our time references for wars are the Gulf War, the Iraq War, and the Ukrainian/Russian conflict.
