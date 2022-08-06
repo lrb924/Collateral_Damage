@@ -32,21 +32,33 @@ ___
 - Visuals and explanations
 - Additional explanations
 - Major findings
-- Limitations and future development
+  
+## Challenges, Limitations and future development
+
+The initial challenge was pulling out housing data as the main sources that gather data are not very generous with it. Most of this data is pulled by the National Association of Realtors, which is the main custodian of the Multiple Listing Service. This data is then pulled by other real estate companies such as Zillow, Redfin or Realtor.com. But they also are not generous with their data either. Thankfully, Nasdaq gathers housing data through Zillow, and not just its stock price, and provides that gratuitously through their API. But because it is broken into small regions, it all needed to be cleaned and combined to provide the national average and median average.
+
+After gathering and plotting all of the data, the limitations of this project are that there are multiple factors that could be influencing each other at various times. It is not always easy to isolate each factor and say for certain without a shadow of a doubt that one factor necessarily influenced another. For instance, we initially set out to explore how war may affect weapon manufacturers. Generally it would seem as though their stock prices went up before the war but then not much during war. Perhaps this is an instance of people "buying the rumor and selling the news." The only one that had sharp fluctuation was Boeing, which may have been due to the release of a new product that was not even closely related to the war. Point is, one would have to look at the news for each company every day for that period to see if there are other factors affecting their prices. The same could be said about housing data. It seems like there is more correlation with inflation than with war. More recently there was a pandemic that affected demand in houses due to people working from home and people having more money for a downpayment from stimulus checks. These were all factors not affected by conflict. With the time constraints for this project it would be hard to have a bird's eye view of all the factors affecting each other.
+
+Limitations are clear pointers to future development. The relationship between all these factors is something that we could look at in the future. Now, if we are able to predict some of the future based on our current analysis, we could say that perhaps that some of the results from the Ukrainian War will not be so different from the results of the Gulf War. For instances, though oil prices increased at the beginning of each conflict, it is clear that in the Gulf War it eventually plateued and then it went down. There may be a repeat of that in the current conflict. This is because countries, organizations and people make adjustments to price fluctuations. For instance OPEC said they would increase oil production in response to the war. People are starting to buy more electric cars, etc. 
+
+
+
+
 - Conclusion
 ## References
 
--Nasdaq/Quandl<br>
--Alpaca<br>
--Yahoo Finance<br>
--https://fred.stlouisfed.org/series/QUSR628BIS<br>
+- Nasdaq/Quandl<br>
+- Alpaca<br>
+- Yahoo Finance<br>
+- https://fred.stlouisfed.org/series/QUSR628BIS<br>
 used for xls data that goes together with Nasdaq and Zillow housing data.<br>
+- https://gist.github.com/dikaio/0ce2a7e9f7088918f8c6ff24436fd035<br>
+used for gathering coordinates of 50 states.
 
-  
-  ## Team Members:
+## Team Members:
 
-  -Darius Griffin (Project Manager)<br>
-  -Bryan Follenweider<br>
-  -Lara Barger<br>
-  -Miguel Ramos<br>
-  -Yohan Hwang
+  - Darius Griffin (Project Manager)<br>
+  - Bryan Follenweider<br>
+  - Lara Barger<br>
+  - Miguel Ramos<br>
+  - Yohan Hwang
