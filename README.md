@@ -39,6 +39,79 @@ Housing data was the most complex and needed the most manipulation because the d
 
 
 ## Visuals and explanations
+
+![Gulf War Gas](Resources/gas_gulf.png)
+Closing stock prices for gas companies before and during the Gulf War<br>
+<br>
+
+![Iraq War Gas](Resources/gas_iraq.png)
+Closing Stock Prices for Gas Companies During the War in Iraq<br>
+<br>
+
+![Ukrainian War Gas](Resources/gas_rusua.png)
+Closing Stock Prices of Gas Companies Before and During the Russian Invasion of Ukraine<br>
+<br>
+
+![Gulf War Housing](Resources/housing_gulf.png)
+Quarterly Housing Prices Index Before and During the Gulf War<br>
+<br>
+
+![Iraq War Housing](Resources/housing_iraq.png)
+Quarterly Housing Prices Index During the War in Iraq<br>
+<br>
+
+![Ukrainian War Housing](Resources/housing_rusua.png)
+National Average and National Median of Housing Prices Before and During the Russian Invasion of Ukraine<br>
+<br>
+
+![Gulf War Interest Rates](Resources/interestrates_gulf.png)
+Interes Rates Before and During the Gulf War<br>
+<br>
+
+![Iraq war Interest Rates](Resources/interestrates_iraq.png)
+Interest Rates During the War in Iraq<br>
+<br>
+
+![Ukrainian War Interest Rates](Resources/interestrates_rusua.png)
+Interest Rates Before and During the Russian Invasion of Ukraine<br>
+<br>
+
+![Gulf War Oil](Resources/oil_gulf.png)
+US Oil Prices Before and During the Gulf War<br>
+<br>
+
+![Iraq War Oil](Resources/oil_iraq.png)
+US Oil Prices During War in Iraq<br>
+<br>
+
+![Ukrainian War Oil](Resources/oil_rusua.png)
+US Oil Prices Before and During the Russian Invasion of Ukraine<br>
+<br>
+
+![Unemployment during Gulf War](Resources/unemployment_gulf.png)
+Unemployment Rate During the Gulf War<br>
+<br>
+
+![Unemployment during Iraq War](Resources/unemployment_iraq.png)
+Unemployment Rate During the War in Iraq<br>
+<br>
+
+![Unemployment during Ukrainian War](Resources/unemployment_rusua.png)
+Unemployment Rate During the Russian Invasion of Ukraine<br>
+<br>
+
+![Weapons Prices during Gulf War](Resources/weapons_gulf.png)
+Closing Stock Prices for Weapons Manufacturers Before and During the Gulf War<br>
+<br>
+
+![Weapons Prices during Iraq War](Resources/weapons_iraq.png)
+Closing Stock Prices for Weapons Manufacturers During the War in Iraq<br>
+<br>
+
+![Weapons Prices during Ukrainian War](Resources/weapons_rusua.png)
+Closing Stock Prices for Weapons Manufacturers Before and During the Russian Invasion of Ukraine<br>
+<br>
+
 ## Additional explanations
 ## Major findings
   Our primary finding is that war and gas prices may not correlate as simply as most Americans are lead to believe. Shortly after Russia invaded Ukraine in February of 2022, prices at the pump began a rise to all-time highs; soaring past $7 in some places and nearing $10 in others. Americans were told that these skyrockecting gas prices were due to the sanctions President Biden imposed on Russia, Europe's largest oil distributor, and that these sanctions were the direct result of Russia's actions in Ukraine. This narrative lead us to investigate the historical effect of war on gas prices, to see if the current bump in prices should be expected based on what has happpened in the past.
@@ -74,7 +147,8 @@ Limitations are clear pointers to future development. The relationship between a
 
 
 
-- Conclusion
+## Conclusion
+
 ## References
 
 - Nasdaq/Quandl<br>
