@@ -28,7 +28,7 @@ Our motivation for taking on this challenge is to find out if there is clear cau
 
 We hope to find this data using stock data from Nasdaq Data Link, the cost of crude oil from the U.S. Energy Information Administration, the cost of housing prices from Data.gov, and the effect on unemployment rates from the U.S. Department of Labor.
 
-The periods of war analyed include:
+The periods of war analyzed include:
 * Data Dates (6 months before official start date, and 5 months into war, except for Iraq War):
   * Gulf War: February 1990 - December 1990
   * Iraq War: March 2003 - December 2011
@@ -105,7 +105,7 @@ Our most interesting find comes when observing this same dataset for the Gulf Wa
 
 We suspect the main culprit for our anomaly to be changing interest rates, so we investigated them for each war. For both the Russian Invasion of Ukraine and the War in Iraq, we see interest rates spike during the early part of each timeline. They eventually dropped towards the end of the Iraq War, so we might see something similar near the end of the Russian Invasion of Ukraine. For now we can see that interest rates continue to increase as that conflict ensues.
 
-The interest rates during the Gulf War have a different trajectory. At the start of the war, they were higher that they ever got during the Iraq War, and higher than the rates that we currently see during the Russian Invasion of Ukraine. This is likely due to the rates recovering from the all-time highs that occured during the early 1980s. Because the rates were already so high, we don't see the same spike that occurs during the other wars, and instead we see them stay relatively steady until they begin to fall as the war nears it's end.
+The interest rates during the Gulf War have a different trajectory. At the start of the war, they were higher than they ever got during the Iraq War, and higher than the rates that we currently see during the Russian Invasion of Ukraine. This is likely due to the rates recovering from the all-time highs that occured during the early 1980s. Because the rates were already so high, we don't see the same spike that occurs during the other wars, and instead we see them stay relatively steady until they begin to fall as the war nears it's end.
 
 ## Challenges, Limitations and Future Development
 
@@ -117,7 +117,7 @@ Limitations are clear pointers to future development. The relationship between a
 
 ## Conclusion
 
-While wartime may have had an effect on the markets we studied, we cannot reaasonably conclude that war was the primary catalyst for the movements we observed. This is made clear by the fact that the major changes we found in our dataset coincide directly with changes in inflation and interest rates during the periods that we chose for our investigation. We know for sure that those particular variables affect the markets we studied, and have to assume that they are most responsible for the changes in our datasets.
+While wartime may have had an effect on the markets we studied, we cannot reasonably conclude that war was the primary catalyst for the movements we observed. This is made clear by the fact that the major changes we found in our dataset coincide directly with changes in inflation and interest rates during the periods that we chose for our investigation. We know for sure that those particular variables affect the markets we studied, and have to assume that they are most responsible for the changes in our datasets.
 
 Understanding the role of inflation and interest rates in our data allowed us to ask ourselves "What other variables could be at play here?" Through further research and discussion we came up with: easing of COVID-19 restrictions, supply chain distruptions caused by the pandemic, America's level of involvement in each war, the seasonality of gas prices, the 2008 recession, and the political affliation of the sitting president are all potential variables that could affect what we are seeing. Due to the number of potential variables outside of what we analyzed in this study, we find it dificult to predict definitively that gas prices will rise, just because there is an existing war.
 
