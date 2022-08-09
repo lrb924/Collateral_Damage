@@ -5,8 +5,9 @@
 # Collateral Damage: The Effect of War on Stocks, Housing, and Unemployment
 
 ## **Project Overview**
-  ### 
+
   ### *Package Requirements and Versions*
+
 `pip install x` ; where 'x' is the package listed below:
 * `python == 3.7.13+` 
 * `numpy == 1.21.5`
@@ -16,6 +17,7 @@
 * `json == 2.0.9`
 * `quandl == 3.7.0`
 * `yfinance == 0.1.74`
+* `plotly.express == 5.9.0`
   
 ###
   Our team decided to investigate the effect of an existing war and how that is reflected on stock prices for weapon manufacturers and stock prices for gas companies and how those can effect the cost of crude oil, housing prices and the unemployment rate. Our time references for wars are the Gulf War, the Iraq War, and the Ukrainian/Russian conflict.
